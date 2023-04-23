@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\c#_hw4\task26\bin\Debug\net6.0\task26.exe
+C:\Users\Acer\Desktop\c#_hw4\task26\bin\Debug\net6.0\task26.deps.json
+C:\Users\Acer\Desktop\c#_hw4\task26\bin\Debug\net6.0\task26.runtimeconfig.json
+C:\Users\Acer\Desktop\c#_hw4\task26\bin\Debug\net6.0\task26.dll
+C:\Users\Acer\Desktop\c#_hw4\task26\bin\Debug\net6.0\task26.pdb
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.AssemblyInfo.cs
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.dll
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\refint\task26.dll
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.pdb
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\task26.genruntimeconfig.cache
+C:\Users\Acer\Desktop\c#_hw4\task26\obj\Debug\net6.0\ref\task26.dll
